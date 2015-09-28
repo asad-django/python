@@ -1,2 +1,1 @@
-# python
-# Django Project
+This is Python Django Login Page
